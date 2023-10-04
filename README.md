@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/QNFhOolVeCzPQ2Mx85" width="100"/>
+</div>
 <iframe src="https://giphy.com/embed/QNFhOolVeCzPQ2Mx85" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/checkmatedigital-code-coding-monkey-QNFhOolVeCzPQ2Mx85">via GIPHY</a></p>
 <!--
 **Perfomancetopdev/Perfomancetopdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
