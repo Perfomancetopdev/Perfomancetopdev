@@ -56,7 +56,5 @@
 ### 🔥 My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Perfomancetopdev)](https://git.io/streak-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Perfomancetopdev)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Perfomancetopdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
