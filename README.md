@@ -56,6 +56,7 @@
 ### 🔥 My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Perfomancetopdev)](https://git.io/streak-stats)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Perfomancetopdev_icons=true)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Perfomancetopdev)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Perfomancetopdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -64,7 +65,6 @@
 
 ## 1. GitHub Stats
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
 
 ## 2. Most Used Languages
 
