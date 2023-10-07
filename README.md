@@ -56,32 +56,12 @@
 ### 🔥 My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Perfomancetopdev)](https://git.io/streak-stats)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Perfomancetopdev_icons=true)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Perfomancetopdev)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Perfomancetopdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Perfomancetopdev&theme=blue-green)
 
+![Your Repository's Stats](https://contrib.rocks/image?repo=Perfomancetopdev/Python)
 
-# Top 5 Badges That Will Take Your GitHub Repository to the Next Level
-
-## 1. GitHub Stats
-
-
-## 2. Most Used Languages
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
-
-## 3. Contributors Badge
-
-![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
-
-## 4. Random Joke Generator
-
+### Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## 5. Profile View Counter
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
-
-### Repository View Counter - HITS
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
